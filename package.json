@@ -1,0 +1,28 @@
+{
+  "name": "tutorial2",
+  "version": "1.0.0",
+  "description": "Second attemp to restructure code",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-redis": "^3.1.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.1",
+    "passport": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weinianhe/tutorial2.git"
+  },
+  "author": "Weinian He",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weinianhe/tutorial2/issues"
+  },
+  "homepage": "https://github.com/weinianhe/tutorial2#readme"
+}
